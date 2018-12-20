@@ -10,6 +10,7 @@
  */
 public class Tarea1GitAdrianPerezGomez {
     public static void main(String[] args) {
+        System.out.println("Aplicacion de Adrián Pérez Gómez ");
         
     }
 }
